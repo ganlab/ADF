@@ -1,0 +1,7 @@
+numpy
+cupy-cuda11x
+pillow
+open3d
+tqdm
+scipy
+scikit-learn
