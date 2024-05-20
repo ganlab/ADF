@@ -28,14 +28,6 @@ python back_projection.py --path ./examples
 python calculating_segmentation_results.py --path ./examples
 ```
 
-
-### Result
-
-Results of image generation and segmentation:
-
-<img src="./assets/result.png" alt="Result Image" width="400">
-
-
 ## :book:Citation
 Please considering cite our paper if you find this work useful!
 ```
